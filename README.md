@@ -1,6 +1,6 @@
 <CENTER><H1> TRY THIS CODE </H1></CENTER>
 
-<a href="https://html-encoder.netlify.app">🇭​🇪​🇷​🇪​</a>
+                               <a href="https://html-encoder.netlify.app">🇭​🇪​🇷​🇪​</a>
 
 <h4>THIS IS SIMPLE ENCODER FOR HTML CODE</h4>
 <br><br>
