@@ -2,8 +2,8 @@
 
 https://html-encoder.netlify.app/
 
-<h1>THIS IS SIMPLE ENCODER FOR HTML CODE</h1>
+<h4>THIS IS SIMPLE ENCODER FOR HTML CODE</h4>
 <br>
 <code><script language="javascript">document.write( unescape( 'PASTE YOUR ENCRYPTED CODE HERE' ))</script></code>
 <br>
-<h1>COPY THE ABOVE CODE AND PASE IT ON YOUR .HTML FILE </h1>
+<h4>COPY THE ABOVE CODE AND PASE IT ON YOUR .HTML FILE </h4>
