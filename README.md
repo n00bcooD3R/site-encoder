@@ -1,5 +1,4 @@
-<CENTER><H1> TRY THIS CODE <BR>
-  <a href="https://html-encoder.netlify.app">🇨​🇱​🇮​🇨​🇰​ 🇭​🇪​🇷​🇪​</a></H1></CENTER>
+<a href="https://html-encoder.netlify.app">🇨​🇱​🇮​🇨​🇰​ 🇭​🇪​🇷​🇪​</a></H1></CENTER><CENTER><H1> TRY THIS CODE <BR>
 
 
 <h4>THIS IS SIMPLE ENCODER FOR HTML CODE</h4>
